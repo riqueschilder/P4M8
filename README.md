@@ -21,7 +21,7 @@ Este é um projeto simples de chatbot desenvolvido para ajudar os usuários a ob
 
 
               
-##Uso
+## Uso
 O chatbot é uma interface de linha de comando simples. Insira um prompt relacionado às normas de segurança em ambientes industriais, e o chatbot responderá com informações geradas pelo modelo GPT-2.
 
 Exemplo de prompt:
