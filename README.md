@@ -27,3 +27,4 @@ O chatbot é uma interface de linha de comando simples. Insira um prompt relacio
 Exemplo de prompt:
 
 Quais são os requisitos para o uso de EPIs em uma fábrica?
+![image](https://github.com/riqueschilder/P4M8/assets/99187952/18ec12b3-f444-43a0-a8f7-0a1ec561be81)
