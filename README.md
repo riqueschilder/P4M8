@@ -19,6 +19,5 @@ Este é um projeto simples de chatbot desenvolvido para ajudar os usuários a ob
   pip install transformers gradio
 
 4.Execute o chatbot:
-     ```bash
      python chatbot.py
 
