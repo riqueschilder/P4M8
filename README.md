@@ -15,9 +15,10 @@ Este é um projeto simples de chatbot desenvolvido para ajudar os usuários a ob
      source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
 
 3. Instale as dependências:
-  ```bash
-  pip install transformers gradio
+        ```bash
+        pip install transformers gradio
 
 4.Execute o chatbot:
-     python chatbot.py
+            ```bash
+              python chatbot.py
 
