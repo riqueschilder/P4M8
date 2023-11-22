@@ -5,9 +5,8 @@ Este é um projeto simples de chatbot desenvolvido para ajudar os usuários a ob
 ## Instalação
 
 1. Clone o repositório:
-   ```bash
   git clone https://github.com/riqueschilder/P4M8.git
-   cd P4M8
+   Cd P4M8
 Crie e ative um ambiente virtual (opcional, mas recomendado):
 
 python -m venv venv
