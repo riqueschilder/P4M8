@@ -16,8 +16,7 @@ Este é um projeto simples de chatbot desenvolvido para ajudar os usuários a ob
 
 3. Instale as dependências e Execute o chatbot:
         ```bash
-        pip install transformers gradio
-         python chatbot.py
+        pip install transformers gradio  python chatbot.py
 
 
               
