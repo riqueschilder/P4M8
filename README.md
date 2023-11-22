@@ -10,15 +10,15 @@ Este é um projeto simples de chatbot desenvolvido para ajudar os usuários a ob
    cd P4M8
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
-  ```bash
-  python -m venv venv
-  source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
+     ```bash
+     python -m venv venv
+     source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
 
 3. Instale as dependências:
   ```bash
   pip install transformers gradio
 
 4.Execute o chatbot:
-  ```bash
-  python chatbot.py
+     ```bash
+     python chatbot.py
 
